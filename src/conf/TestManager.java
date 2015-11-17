@@ -23,7 +23,7 @@ public class TestManager {
 
     @After
     public void tearDown() {
-        driver.quit();
+      //  driver.quit();
     }
 
     public static WebDriver getDriver(){
